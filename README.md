@@ -9,6 +9,7 @@
 ````java
 public void onSkid(PlayerSkidEvent event) {
     Player player = event.getPlayer();
+    @EventHandler
     if (player.getName().equals("CuteNyami")) {
        System.out.println(player.getName() + " is not a skidder!");
     } else {
