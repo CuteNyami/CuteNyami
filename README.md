@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-#### I am a Spigot and Minecraft Client developer. My current project are [SimplexClient](http://simplexclient.tk). 
+#### I am a Spigot and Minecraft Client developer. My current project is [SimplexClient](http://simplexclient.tk). 
 
 #### My favorite programming language is java.
 
