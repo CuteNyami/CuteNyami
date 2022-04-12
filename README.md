@@ -10,10 +10,10 @@
 @EventHandler
 public void onSkid(PlayerSkidEvent event) {
     Player player = event.getPlayer();
-    if (player.getName().equals("CuteNyami")) {
-       System.out.println(player.getName() + " is not a skidder!");
+    if (player.getName().equals("CuteNyami") || player.getName().equals("mcblueparrot")) {
+       LogManager.getLogger().info(player.getName() + " is not a skidder!");
     } else {
-        System.out.println(player.getName() + " is a skidder!");
+        LogManager.getLogger().info(player.getName() + " is a skidder!");
     }
 }
 ````
