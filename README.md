@@ -31,5 +31,5 @@ public void onSkid(PlayerSkidEvent event) {
 <img align="left" alt="Cutenyamis's Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cutenyami&show_icons=true&hide_border=true&theme=radical" />
 <img align="right" alt="Cutenyamis's Github Stats" src="https://github-readme-stats.vercel.app/api?username=cutenyami&show_icons=true&hide_border=true&theme=radical" />
 
-[discord]: https://discord.gg/ehgpCWJqZV
+[discord]: https://discord.gg/WEEbdV4mTp
 [youtube]: https://youtube.com/c/bylumia
