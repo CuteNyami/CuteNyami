@@ -2,7 +2,9 @@
 
 #### I am a Spigot and Minecraft Client developer. My current project is [SimplexClient](http://simplexclient.tk). 
 
-#### My favorite programming language is java.
+#### And I am a Owner of the known Bedrock Edition client called [Luconia](https://discord.gg/luconia)
+
+#### My favorite programming languages are java and c++.
 
 <br />
 
