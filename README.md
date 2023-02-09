@@ -8,18 +8,6 @@
 
 <br />
 
-````java
-@EventHandler
-public void onSkid(PlayerSkidEvent event) {
-    Player player = event.getPlayer();
-    if (player.getName().equals("mcblueparrot") || player.getName().equals("CuteNyami")) {
-       LogManager.getLogger().info(player.getName() + " is not a skidder!");
-    } else {
-        LogManager.getLogger().info(player.getName() + " is a skidder!");
-    }
-}
-````
-
 ### Socials:
 
 [<img align="left" alt="YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
