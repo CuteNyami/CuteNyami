@@ -2,8 +2,6 @@
 
 #### I am a Minecraft Java Edition and Bedrock Edition mod creator! I am currently working on the mcbe client called [Luconia](http://discord.gg/luconia). 
 
-#### And I am a Owner of the known Bedrock Edition client called [Luconia](https://discord.gg/luconia)
-
 #### My favorite programming languages are java and c++.
 
 <br />
