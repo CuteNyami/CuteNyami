@@ -9,14 +9,13 @@ My favorite languages are **Java** and **C++**
 
 ### 🌐 Socials
 
-[<img align="left" alt="YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg?color=FF0000" />][youtube]
-[<img align="left" alt="Discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg?color=5865F2" />][discord]
+[<img align="left" alt="YouTube" width="22px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/youtube.svg" />][youtube]
+[<img align="left" alt="Discord" width="22px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/discord.svg" />][discord]
 
 <br/><br/>
 
 ---
 
-### 📊 GitHub Stats
 ### 📊 GitHub Stats
 
 <p align="center">
