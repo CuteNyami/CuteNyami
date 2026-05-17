@@ -9,8 +9,11 @@ My favorite languages are **Java** and **C++**
 
 ### 🌐 Socials
 
-[<img align="left" alt="YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="Discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />][discord]
+[<img align="left" alt="YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg#gh-light-mode-only" />][youtube]
+[<img align="left" alt="Discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg#gh-light-mode-only" />][discord]
+
+[<img align="left" alt="YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg?color=FF0000#gh-dark-mode-only" />][youtube]
+[<img align="left" alt="Discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg?color=5865F2#gh-dark-mode-only" />][discord]
 
 <br/><br/>
 
@@ -18,9 +21,9 @@ My favorite languages are **Java** and **C++**
 
 ### 📊 GitHub Stats
 
-<img align="left" alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cutenyami&show_icons=true&hide_border=true&theme=radical" />
+<img align="left" alt="Top Languages" src="https://github-stats-extended.vercel.app/api/top-langs/?username=cutenyami&show_icons=true&hide_border=true&theme=radical" />
 
-<img align="right" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=cutenyami&show_icons=true&hide_border=true&theme=radical" />
+<img align="right" alt="GitHub Stats" src="https://github-stats-extended.vercel.app/api?username=cutenyami&show_icons=true&hide_border=true&theme=radical" />
 
 <br/><br/><br/><br/><br/>
 
